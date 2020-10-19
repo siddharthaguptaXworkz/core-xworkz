@@ -1,0 +1,9 @@
+public class DoubleExample{
+	public static void print() {
+	double secondsInYear = 3.1536e13;
+	double costOfFerrariZimbabweDollars = 2e11;
+	double myWeightInNanoGrams = 8.5e13;
+	double radiusElectroncm = 2e-10; 
+	System.out.println("Int:  secondsInDay "+ secondsInYear+ " costOfFerrariZimbabweDollars "+ costOfFerrariZimbabweDollars+" myWeightInNanoGrams "+ myWeightInNanoGrams+" radiusElectroncm "+ radiusElectroncm);
+	}
+}
