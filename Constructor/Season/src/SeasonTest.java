@@ -1,4 +1,4 @@
-public class Main {
+public class SeasonTest {
     public static void main(String[] args) {
         Season winter= new Season(10,2,"WINTER");
         winter.print();
